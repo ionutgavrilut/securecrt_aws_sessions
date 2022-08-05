@@ -19,9 +19,11 @@ This scripted was tested using:
 - - - Create a command that run your main script
 - - - Command function: Launch Application (python executable)
 - - - Command arguments: Script; make sure you will double quote this string, because it can contain spaces.
-- - Second command:
+- - - ![SecureCRT Screenshot](https://assets.digitalocean.com/articles/alligator/boo.svg "SecureCRT Screenshot")
+- - Second command (optional):
 - - - Script: refresh-session-list.py
 - - - This command will refresh the session manager, to not restart the SecureCRT everytime.
 - - - Command function: Run Script
+- - - ![SecureCRT Screenshot](https://assets.digitalocean.com/articles/alligator/boo.svg "SecureCRT Screenshot")
 
 ##### Thank you! Any contribution will be appreciated!

@@ -24,6 +24,6 @@ This scripted was tested using:
 - - - Script: refresh-session-list.py
 - - - This command will refresh the session manager, to not restart the SecureCRT everytime.
 - - - Command function: Run Script
-- - - ![SecureCRT Screenshot](https://assets.digitalocean.com/articles/alligator/boo.svg "SecureCRT Screenshot")
+- - - ![SecureCRT Screenshot](https://i.imgur.com/n8DFfws.png)
 
 ##### Thank you! Any contribution will be appreciated!
